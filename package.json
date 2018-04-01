@@ -1,0 +1,8 @@
+{
+  "name": "parcel-full-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:IVLIU/parcel-full-project.git",
+  "author": "IVLIU <IVLIU.github.com>",
+  "license": "MIT"
+}
