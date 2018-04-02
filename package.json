@@ -4,5 +4,20 @@
   "main": "index.js",
   "repository": "git@github.com:IVLIU/parcel-full-project.git",
   "author": "IVLIU <IVLIU.github.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@types/antd": "^1.0.0",
+    "@types/react": "^16.1.0",
+    "@types/react-dom": "^16.0.4",
+    "@types/react-router": "^4.0.23",
+    "antd": "^3.4.0",
+    "babel-plugin-import": "^1.6.7",
+    "react": "^16.3.0",
+    "react-dom": "^16.3.0",
+    "react-router": "^4.2.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "typescript": "^2.8.1"
+  }
 }
